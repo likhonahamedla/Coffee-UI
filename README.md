@@ -5,6 +5,10 @@ A new Flutter project.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+HomePage-
+![image alt](https://github.com/likhonahamedla/Coffee-UI/blob/746a1c4839874fefffe8255ebd00caeefe4bc50d/screenshots/home.png)
+DetailsPage-
+![image alt](https://github.com/likhonahamedla/Coffee-UI/blob/746a1c4839874fefffe8255ebd00caeefe4bc50d/screenshots/details.png)
 
 A few resources to get you started if this is your first Flutter project:
 
